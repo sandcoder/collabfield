@@ -43,6 +43,7 @@ group :development, :test do
   gem 'headless', '~> 2.3', '>= 2.3.1'
   gem 'poltergeist', '~> 1.18', '>= 1.18.1'
   gem 'database_cleaner', '~> 1.8', '>= 1.8.5'
+  gem 'phantomjs', '~> 2.1', '>= 2.1.1.0'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Adds support for Capybara system testing and selenium driver
