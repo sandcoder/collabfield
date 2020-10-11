@@ -67,3 +67,4 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 
 gem 'devise', '~> 4.7', '>= 4.7.3'
+gem 'will_paginate', '~> 3.3'
